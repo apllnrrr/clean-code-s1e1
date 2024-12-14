@@ -39,10 +39,12 @@
     margin: 0;
     padding: 0px;
 }
-.list-item, h3 {
+.list-item, 
+h3 {
     list-style: none;
 }
-input,button{
+input,
+button{
     outline: none;
 }
 .button {
@@ -116,7 +118,7 @@ label[for='new-task'] {
     font-size: 18px;
     width: 226px;
 }
-.list-item >    input[type="text"] {
+.list-item > input[type="text"] {
     width: 226px
 }
 .delete-image {
